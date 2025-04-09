@@ -11,5 +11,5 @@ My data science and analytics project
 reach out ot me at tanawatkhamso@gmail.com
 
 ## Image
-![Spider man](URL "![image](https://github.com/user-attachments/assets/2024c2eb-91dc-4b8e-9617-179296a115f8)
-")
+![Spider man](https://github.com/user-attachments/assets/2024c2eb-91dc-4b8e-9617-179296a115f8)
+
