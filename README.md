@@ -11,4 +11,4 @@ My data science and analytics project
 reach out ot me at tanawatkhamso@gmail.com
 
 ## Image
-![Spider man](URL "[[Optional title](https://www.google.co.th/url?sa=i&url=https%3A%2F%2Fth.eloutput.com%2Fcine-series%2Fseries%2Fspider-man-actores-superheroe%2F&psig=AOvVaw2D0K_539liz3zMvvj7FgJh&ust=1744283822923000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjRqebpyowDFQAAAAAdAAAAABAE)](https://eloutput.com/wp-content/uploads/2020/06/toby-maguire-spider-man.jpg)")
+![Spider man](URL "(https://www.google.co.th/url?sa=i&url=https%3A%2F%2Fth.eloutput.com%2Fcine-series%2Fseries%2Fspider-man-actores-superheroe%2F&psig=AOvVaw2D0K_539liz3zMvvj7FgJh&ust=1744283822923000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjRqebpyowDFQAAAAAdAAAAABAE)](https://eloutput.com/wp-content/uploads/2020/06/toby-maguire-spider-man.jpg)")
